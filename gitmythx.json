@@ -1,0 +1,9 @@
+{
+  "solidityVersion": "0.5.1",
+  "contracts": [
+    {
+      "name": "TestContract",
+      "path": "./contracts/TestContract.sol"
+    }
+  ]
+}
