@@ -32,7 +32,7 @@ contract TestContract {
     /// Create a new ballot to choose one of `proposalNames`.
     constructor(bytes32[] memory proposalNames) public {
         chairperson = msg.sender;
-        voters[chairperson].weight = 1;
+        voters[chairperson].weight = 2;
 
         // For each of the provided proposal names,
         // create a new proposal object and add it
