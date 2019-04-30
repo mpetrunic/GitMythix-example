@@ -1,5 +1,5 @@
 {
-  "solidityVersion": "0.5.1",
+  "solidityVersion": "soljson-v0.5.1+commit.c8a2cb62.js",
   "contracts": [
     {
       "name": "TestContract",
